@@ -1,0 +1,11 @@
+pyvirtualdisplay
+swig
+gym[box2d]
+pandas
+imageio
+IPython
+matplotlib
+gym
+tensorflow==2.15.0
+pillow
+numpy
